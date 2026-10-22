@@ -1,0 +1,10 @@
+[
+  {
+    "level": "INFO",
+    "kind": "process",
+    "name": "python.exe",
+    "path": "C:\\Users\\user\\Downloads\\aimguard\\.venv\\Scripts\\python.exe",
+    "sha256": "41123879d2e991377997acadf5f0cf8f34fa10d86362eded8c69b6041e2893b5",
+    "why": "runs from a temp/downloads/desktop folder"
+  }
+]

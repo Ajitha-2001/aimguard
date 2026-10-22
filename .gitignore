@@ -12,3 +12,6 @@ __pycache__/
 .env
 .env.*
 !.env.example
+scan_report.json
+flags.csv
+aimguard_report.html
